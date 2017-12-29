@@ -1,6 +1,6 @@
 # mobile-computing-2017
 
-## UAS Materials:
+## UAS Materials (Open Cheatsheet 1 page A4):
 
 [1. CONTENT PROVIDER](https://www.tutorialspoint.com/android/android_content_providers.htm)
 
